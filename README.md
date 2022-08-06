@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Hassan
-- 👀 I’m interested in Front End Web Development(HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT JS)
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 A Video Editor & Front End Web Developer(HTML | CSS | JAVASCRIPT | BOOTSTRAP | REACT JS)
+- 🌱 I’m currently learning | WEB3
+- 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me mail me on mhassan786000@gmail.com
 
 <!---
