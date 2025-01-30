@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muhammad Hassan
-- 👀 A Video Editor & Front End Web Developer(HTML | CSS | JAVASCRIPT | BOOTSTRAP | REACT JS)
-- 🌱 I’m currently learning | WEB3
-- 💞️ I’m looking to collaborate on Web Applications
+- 👀 A Software Engineer (Fullstack Web & Mobile Developer)
+- 🌱 I’m currently learning | Generative AI
 - 📫 How to reach me mail me on mhassan786000@gmail.com
 
 <!---
